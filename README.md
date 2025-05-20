@@ -51,7 +51,8 @@ This project is based on the official Android Developer Codelab:
 
 3. Click Run ▶️ to build and launch the app
    
-🧠 What I Learned
+### 🧠 What I Learned
+
 How to use Button and Image composables in Jetpack Compose
 
 How to respond to button clicks
